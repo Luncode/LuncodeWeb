@@ -1,0 +1,53 @@
+
+a:hover{
+    color: pink;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+.qwq{
+    width: 1200px;
+    height: 80px;
+    color: white;
+    background-color: black;
+}
+.qwq_main a{
+    position: absolute;
+    left: 220px;
+    line-height: 60px;
+    font-size: 30px;
+    color: white;
+    float: none;
+}
+.qwq img{
+    position: absolute;
+    left: 150px;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+.qwq_nav{
+    margin-left: 400px;
+    line-height: 60px;
+}
+.qwq_nav ul{
+    display: inline;
+    list-style: none;
+    line-height: 60px;
+}
+.qwq_nav ul li{
+    display: inline;
+    color: white;
+    font-family: 黑体;
+    margin-left: 100px;
+}
+.qwq_nav ul li a{
+    color: white;
+    font-size: 16px;
+    font-family: 黑体;
+}
+.qwq_nav ul li a:hover{
+    color: pink;
+}
